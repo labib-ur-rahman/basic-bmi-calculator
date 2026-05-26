@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="bmi_calculator">BMI</string>
+    <string name="arithmetic_operations">Math</string>
+    <string name="celsius_to_fahrenheit">Temperature</string>
+    <string name="calculate_discount">Discount</string>
+    <string name="bmi_calculators">BMI Calculator</string>
+    <string name="healty">
+        💙 You are a healthy weight for your height according to your BMI.
+        \n\nAim to stay within the healthy weight range by enjoying a heart-healthy eating pattern and being physically active.
+        Most adults should get at least 30 minutes of moderate intensity physical activity on most, if not all, days.
+        \n\nIf you are aged 65 years or over, your general health may be more important than being mildly overweight.
+    </string>
+    <string name="underweight">
+        😨 You are underweight for your height. It’s important to aim for a healthy weight range, which is better for your overall health.
+        \n\nYour GP can help, and it’s especially important to speak to them as soon as possible if you are losing weight without trying.
+    </string>
+    <string name="overweight">
+        ❌ You are overweight for your height. Being overweight can increase your risk of developing heart disease, as well as other health conditions.
+        \n\nAim to achieve and maintain a healthy weight by enjoying a heart-healthy eating pattern and being physically active. Most adults should get at least 30 minutes of moderate intensity physical activity on most, if not all, days. Having a healthy weight will help you manage your blood pressure and cholesterol levels.
+        \n\nIf you are aged 65 years or over, your general health may be more important than being mildly overweight.
+    </string>
+</resources>
