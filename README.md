@@ -1,4 +1,4 @@
-# Basic BMI Calculator
+# Basic BMI Calculator using Kotlin and Material Components
 
 A simple native Android BMI calculator built with Kotlin, XML layouts, and Material components. The app lets users enter weight in kilograms and height in feet and inches, then calculates Body Mass Index (BMI), shows the weight category, and displays short health guidance based on the result.
 
